@@ -1,4 +1,5 @@
 use anyhow::Result;
+use sigmaos_component::config::Config;
 
 #[cfg(test)]
 mod tests {
