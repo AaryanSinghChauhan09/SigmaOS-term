@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-term"
-description = "SigmaOS subsystem component for term"
+description = "Terminal launcher wrapper (foot/ghostty/kitty)"
 version = "0.1.0"
 tier = 5
 
